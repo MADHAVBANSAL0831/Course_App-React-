@@ -3,7 +3,7 @@ import "./Spinner.css";
 
 const Spinner = () => {
     return (
-        <div className="spin">
+        <div className="spin-tag">
             <div class="lds-hourglass"></div>
             <div>
                 <p>Loading...</p>
